@@ -1,14 +1,14 @@
 # Employee-Attrition-Analysis
 Problem statements:-
-a. The overall attrition rate and its variations across different job roles, departments and demographics.
-b. How different factors like tenure, job satisfaction and performance ratings influence attrition.
-c. Patterns in voluntary vs involuntary attrition and their causes.
-d. Trends in employees retention across various periods.
+a. Analyze the overall attrition rate and its variation across different job roles, departments, and demographics.
+b. Understand how factors such as tenure, job satisfaction, and performance ratings influence attrition.
+c. Identify patterns in voluntary vs. involuntary attrition and their causes.
+d. Study trends in employee retention across different time periods.
 
 This projects includes following measures:-
-a. Understanding problem statements.
-b. What data exists?
-c. Data points related to the problem statements.
-d. Analyze and Visualize
-c. Finally insights and required actions.
+a. Understanding the problem statements.
+b. Identifying the available data.
+c. Selecting relevant data points related to the problem.
+d. Analyzing and visualizing the data.
+e. Deriving insights and recommending actions.
 
