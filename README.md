@@ -1,4 +1,4 @@
-![Employee Attrition Banner](https://www.hibob.com/blog/attrition-indicator/)
+![Employee Attrition Banner](https://res.cloudinary.com/www-hibob-com/w_1900,h_810,c_fit/fl_lossy,f_webp,q_auto/wp-website/uploads/20231027-HiBob-Main-banner-Identify-attrition-risk-1.png)
 
 
 # Employee Attrition Analysis  
