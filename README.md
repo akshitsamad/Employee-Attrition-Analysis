@@ -1,14 +1,41 @@
-# Employee-Attrition-Analysis
-Problem statements:-
-a. Analyze the overall attrition rate and its variation across different job roles, departments, and demographics.
-b. Understand how factors such as tenure, job satisfaction, and performance ratings influence attrition.
-c. Identify patterns in voluntary vs. involuntary attrition and their causes.
-d. Study trends in employee retention across different time periods.
+# Employee Attrition Analysis  
 
-This projects includes following measures:-
-a. Understanding the problem statements.
-b. Identifying the available data.
-c. Selecting relevant data points related to the problem.
-d. Analyzing and visualizing the data.
-e. Deriving insights and recommending actions.
+## Project Overview  
+This project analyzes employee attrition trends to understand the key factors influencing employee turnover across departments, job roles, and demographics.
+
+## Problem Statements  
+- Analyze overall attrition rate and variations by job role, department, and demographics.  
+- Understand how tenure, job satisfaction, and performance ratings impact attrition.  
+- Identify patterns in voluntary vs involuntary attrition.  
+- Study employee retention trends over different time periods.  
+
+## Dataset  
+The dataset includes employee information such as:  
+- Department & Job Role  
+- Age & Gender  
+- Tenure  
+- Job Satisfaction  
+- Performance Rating  
+- Attrition Status  
+
+## Tools Used  
+- Microsoft Excel  
+- Data Cleaning  
+- Pivot Tables  
+- Charts & Visualization  
+
+## Key Analysis  
+- Department-wise attrition rate  
+- Tenure vs attrition  
+- Performance rating impact  
+- Satisfaction level analysis  
+
+## Insights  
+- Higher attrition in early tenure employees  
+- Low job satisfaction increases attrition  
+- Certain roles have higher turnover  
+
+## Conclusion  
+This analysis helps HR teams identify risk factors and improve employee retention strategies.
+
 
