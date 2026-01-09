@@ -1,3 +1,6 @@
+![Employee Attrition Banner](https://www.hibob.com/blog/attrition-indicator/)
+
+
 # Employee Attrition Analysis  
 
 ## Project Overview  
